@@ -1,1 +1,1 @@
-# dataStructuresLab-5
+# dataStructuresLabs
